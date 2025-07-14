@@ -1,0 +1,47 @@
+[
+    {
+      "id": "vc1",
+      "name": "Spark Growth Ventures",
+      "industries": ["Fintech", "SaaS", "AI"],
+      "contactPerson": "Jane Doe",
+      "email": "jane.doe@sparkgrowth.com",
+      "website": "https://www.sparkgrowth.com",
+      "description": "Investing in disruptive financial technology and AI-driven SaaS solutions."
+    },
+    {
+      "id": "vc2",
+      "name": "AutoMotion Capital",
+      "industries": ["Automotive", "Mobility", "Hardware"],
+      "contactPerson": "John Smith",
+      "email": "john.smith@automotion.com",
+      "website": "https://www.automotioncapital.co",
+      "description": "Focused on the future of transportation, including EV and autonomous tech."
+    },
+    {
+      "id": "vc3",
+      "name": "Threads & Tech Ventures",
+      "industries": ["Fashion", "Retail Tech", "E-commerce"],
+      "contactPerson": "Emily White",
+      "email": "emily.white@threadsandtech.com",
+      "website": "https://www.threadsandtech.io",
+      "description": "Driving innovation in the fashion and retail sectors with cutting-edge tech."
+    },
+    {
+      "id": "vc4",
+      "name": "Health Innovators Fund",
+      "industries": ["Healthcare", "Biotech", "Digital Health"],
+      "contactPerson": "Michael Brown",
+      "email": "michael.brown@healthinnovators.org",
+      "website": "https://www.healthinnovators.org",
+      "description": "Pioneering investments in healthcare technology and life sciences."
+    },
+    {
+      "id": "vc5",
+      "name": "Green Future Investments",
+      "industries": ["Clean Energy", "Sustainability", "Climate Tech"],
+      "contactPerson": "Sarah Green",
+      "email": "sarah.green@greenfuture.vc",
+      "website": "https://www.greenfuture.vc",
+      "description": "Dedicated to funding sustainable solutions and clean energy initiatives."
+    }
+  ]
